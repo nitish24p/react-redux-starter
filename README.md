@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nitish24p/react-redux-starter.svg?branch=master)](https://travis-ci.org/nitish24p/react-redux-starter)
 # react-redux-starter
 Boiler plate for setting up react with redux
 
